@@ -8,7 +8,7 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 - Tests my other coding languages
 
 ## Languages used
-- Python [day1](day1.py)
+- Python [day1](day1/day1.py)
 
 ## Days done
 
