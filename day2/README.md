@@ -21,17 +21,17 @@ be the second player.
 
 ```c
 char[char] winner;
-    winner['A'] = 'Y';
-    winner['B'] = 'Z';
-    winner['C'] = 'X';
+winner['A'] = 'Y';
+winner['B'] = 'Z';
+winner['C'] = 'X';
 
-    char[char] loser;
-    loser['A'] = 'Z';
-    loser['B'] = 'X';
-    loser['C'] = 'Y';
+char[char] loser;
+loser['A'] = 'Z';
+loser['B'] = 'X';
+loser['C'] = 'Y';
 
-    char[char] tie;
-    tie['A'] = 'X';
-    tie['B'] = 'Y';
-    tie['C'] = 'Z';
+char[char] tie;
+tie['A'] = 'X';
+tie['B'] = 'Y';
+tie['C'] = 'Z';
 ```
