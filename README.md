@@ -9,11 +9,12 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 
 ## Languages used
 - Python [day1](day1/day1.py)
+- D [day2](day2/day2.d)
 
 ## Days done
 
 - [X] Day 1 [explanation](day1/README.md)
-- [ ] Day 2
+- [X] Day 2 [explanation](day2/README.md)
 - [ ] Day 3
 - [ ] Day 4
 - [ ] Day 5
