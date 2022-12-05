@@ -8,7 +8,7 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 - Tests my other coding languages
 
 ## Languages used
-- Python [day1](day1/day1.py)
+- Python [day1](day1/day1.py) [day4](day4/day4.py)
 - D [day2](day2/day2.d)
 - C++ [day3](day3/day3.cpp)
 
@@ -17,7 +17,7 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 - [X] Day 1 [explanation](day1/README.md)
 - [X] Day 2 [explanation](day2/README.md)
 - [X] Day 3 [explanation](day3/README.md)
-- [ ] Day 4
+- [X] Day 4 [explanation](day4/README.md)
 - [ ] Day 5
 - [ ] Day 6
 - [ ] Day 7
